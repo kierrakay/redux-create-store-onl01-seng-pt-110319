@@ -70,3 +70,4 @@ button.addEventListener('click', () => {
 })
 
 // As you see above, createStore takes the reducer as the argument. This sets the new store's reducer as reducer. When an action is dispatched, it calls the reducer that we passed through when creating the store.
+// <ignore>
